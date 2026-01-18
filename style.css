@@ -1,0 +1,12 @@
+body {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 15px;
+}
